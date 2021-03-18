@@ -16,3 +16,5 @@ When using this dataset please cite this publication:
 Charlton P.H., Mariscal Harana, J., Vennin, S., Li, Y., Chowienczyk, P. & Alastruey, J., “Modelling arterial pulse waves in healthy ageing: a database for in silico evaluation of haemodynamics and pulse wave indices,” AJP Hear. Circ. Physiol., [in press], 2019.
 
 # Citation
+
+# *Corresponding author: Mohamed A. Bahloul, Email: mohamad.bahloul@kaust.edu.sa
