@@ -9,7 +9,7 @@ Recent studies have demonstrated the advantages of fractional-order calculus too
 
 # Database 
 
-The database investigated in this study is publicly available at DOI: 10.5281/zenodo.3275625 in Matlab ®, CSV and WaveForm DataBase (WFDB) formats.https://peterhcharlton.github.io/pwdb/datasets.html
+The database investigated in this study is publicly available at DOI: 10.5281/zenodo.3275625 in Matlab ®, CSV and WaveForm DataBase (WFDB) formats. [https://peterhcharlton.github.io/pwdb/datasets.html]
 
 When using this dataset please cite this publication:
 
